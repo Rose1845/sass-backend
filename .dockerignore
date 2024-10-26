@@ -1,0 +1,4 @@
+node_modnode_modules
+npm-debug.log
+Dockerfile
+.dockerignoreules
